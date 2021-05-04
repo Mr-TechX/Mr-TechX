@@ -1,6 +1,4 @@
 ## ¡Saludos, soy TechL0rd! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![GitHub followers](https://img.shields.io/github/followers/TechL0rd?label=Follow&style=social)](https://github.com/TechL0rd)
-[![Twitter followers](https://img.shields.io/twitter/follow/Tech_L0rd_?label=Follow&style=social)](https://twitter.com/Tech_L0rd)
 
 ### Soy programador, desarrollador web, creador de bots de discord.
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Tech Lord☬](https://twitter.com/Tech_L0rd).
