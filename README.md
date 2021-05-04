@@ -26,6 +26,4 @@ Soy miembro de los servidores de [NEO | Army](https://discord.gg/neoarmy) y tamb
 
 ######Aunque Mis favoritos y mas usados son JavaScript y Python :]
 ---
-[<img src="https://vercel.com/techl0rd/listen/6XnXCcR9k5cKsDAu9pAsyd4dgtFj" alt="TechL0rd Spotify Playing" width="350" />]()
 
----
