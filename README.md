@@ -4,7 +4,7 @@
 [<img src="https://pbs.twimg.com/profile_banners/1370653756468166657/1620144604/1500x500">](https://twitter.com/Tech_L0rd)
 
 -----------
-### Soy programador, desarrollador web, creador de bots de discord, hacker etico, etc.
+### Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Tech Lord☬](https://twitter.com/Tech_L0rd).
 
 Soy miembro de los servidores de [NEO | Army](https://discord.gg/neoarmy) y tambien de [MyBot Team](https://discord.gg/g6ssSmK)
