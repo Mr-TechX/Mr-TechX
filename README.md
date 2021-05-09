@@ -8,7 +8,7 @@
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Tech Lord☬](https://twitter.com/Tech_L0rd).
 
 Soy miembro de los servidores de [NEO | Army](https://discord.gg/neoarmy) y tambien de [MyBot Team](https://discord.gg/g6ssSmK)
-
+Fundador de [TecnoProjects](https://github.com/TecnoProjects)
 ---
 ### Mis lenguajes son lenguajes:
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
