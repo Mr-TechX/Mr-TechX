@@ -1,6 +1,7 @@
 ## ¡Saludos, soy TechL0rd! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tech_L0rd?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/Tech_L0rd)
 [![GitHub followers](https://img.shields.io/github/followers/TechL0rd?color=%23181717&logo=Github&style=for-the-badge)](https://github.com/TechL0rd)
+[![Unete a mi server][https://img.shields.io/discord/847520823727620126?color=%235865F2&label=Unete%20a%20mi%20servidor&logo=Discord&style=for-the-badge)](https://discord.gg/jJCMSYqfkh)
 [<img src="https://pbs.twimg.com/profile_banners/1370653756468166657/1620144604/1500x500">](https://twitter.com/Tech_L0rd)
 
 -----------
