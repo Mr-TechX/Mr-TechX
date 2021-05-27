@@ -10,7 +10,8 @@ Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programaci
 
 Soy miembro de los servidores de [NEO | Army](https://discord.gg/neoarmy) y tambien de [MyBot Team](https://discord.gg/g6ssSmK)
 
-Fundador de [TecnoProjects](https://github.com/TecnoProjects)
+Fundador de [TecnoProjects](https://github.com/TecnoProjects)<br>
+Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](https://discord.gg/jJCMSYqfkh)
 ---
 ### Mis lenguajes son lenguajes:
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
