@@ -1,12 +1,12 @@
-## ¡Saludos, soy TechL0rd! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tech_L0rd?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/Tech_L0rd)
+## ¡Saludos, soy Mr. TechX! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Twitter Follow](https://img.shields.io/twitter/follow/Tech_L0rd?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/Mr__TechX)
 [![GitHub followers](https://img.shields.io/github/followers/TechL0rd?color=%23181717&logo=Github&style=for-the-badge)](https://github.com/TechL0rd)
 [![Unete a mi server](https://img.shields.io/discord/847520823727620126?color=%235865F2&label=Unete%20a%20mi%20servidor&logo=Discord&style=for-the-badge)](https://discord.gg/jJCMSYqfkh)
-[<img src="https://pbs.twimg.com/profile_banners/1370653756468166657/1620144604/1500x500">](https://twitter.com/Tech_L0rd)
+[<img src="https://pbs.twimg.com/profile_banners/1370653756468166657/1622332311/600x200">](https://twitter.com/Mr__TechX)
 
 -----------
 ### Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
-Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Tech Lord☬](https://twitter.com/Tech_L0rd).<br>
+Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Mr. TechX☬](https://twitter.com/Mr__TechX).<br>
 
 Soy miembro de los servidores de [NEO | Army](https://discord.gg/neoarmy) y tambien de [MyBot Team](https://discord.gg/g6ssSmK) 
 Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](https://discord.gg/jJCMSYqfkh)
