@@ -1,7 +1,7 @@
 ## ¡Saludos, soy Mr. TechX! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mr__TechX?color=%231DA1F2&label=Mr.%20TechX&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/Mr__TechX)
 [![GitHub followers](https://img.shields.io/github/followers/Mr-TechX?color=%23181717&label=Github%20%7C%20Follow&logo=Github&style=for-the-badge)](http://bit.ly/github_techX)
-[![Unete a mi server](https://img.shields.io/discord/847520823727620126?color=%235865F2&label=Unete%20a%20mi%20servidor&logo=Discord&style=for-the-badge)](https://discord.gg/jJCMSYqfkh)
+[![Unete a mi server](https://img.shields.io/discord/847520823727620126?color=%235865F2&label=Unete%20a%20mi%20servidor&logo=Discord&style=for-the-badge)](http://bit.ly/discord_techX)
 [<img src="https://pbs.twimg.com/profile_banners/1370653756468166657/1622332311/600x200">](https://twitter.com/Mr__TechX)
 
 -----------
@@ -9,7 +9,7 @@
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Mr. TechX☬](https://twitter.com/Mr__TechX).<br>
 
 Soy miembro de los servidores de [NEO | Army](https://discord.gg/neoarmy) y tambien de [MyBot Team](https://discord.gg/g6ssSmK) 
-Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](https://discord.gg/jJCMSYqfkh)
+Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](http://bit.ly/discord_techX)
 ---
 Fundador de [TecnoProjects](https://github.com/TecnoProjects)
 ---
