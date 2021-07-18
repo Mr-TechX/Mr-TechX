@@ -9,7 +9,7 @@
 ### Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Mr. TechX☬](https://twitter.com/Mr__TechX).<br>
 
-Soy miembro de los servidores de [NEO | Army](https://discord.gg/neoarmy) y tambien de [MyBot Team](https://discord.gg/g6ssSmK) 
+Soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [MyBot Team](https://discord.gg/g6ssSmK) 
 Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](http://bit.ly/discord_techX)
 ---
 Fundador de [TecnoProjects](https://github.com/TecnoProjects)
