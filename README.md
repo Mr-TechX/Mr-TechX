@@ -4,6 +4,7 @@
 [![Unete a mi server](https://img.shields.io/discord/847520823727620126?color=%235865F2&label=Unete%20a%20mi%20servidor&logo=Discord&style=for-the-badge)](https://bit.ly/3vcdM5j)
 [![Personal Account](https://img.shields.io/twitter/follow/ulises__camacho?color=%231DA1F2&label=Personal%20Account&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/ulises__camacho)
 <img src="https://pbs.twimg.com/profile_banners/1370653756468166657/1626578835/1500x500">
+[![TechX Twitter](https://pbs.twimg.com/profile_banners/1370653756468166657/1626578835/1500x500)](https://twitter.com/Mr_TechX)
 
 -----------
 ### Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
@@ -31,5 +32,4 @@ Fundador de [TecnoProjects](https://github.com/TecnoProjects)
 
 #### Aunque Mis favoritos y mas usados son JavaScript y Python :]
 ---
-[![Rojito Website](https://i.imgur.com/1X3QBUt.png)](_blank https://rojito.ml)
 
