@@ -32,3 +32,5 @@ Fundador de [TecnoProjects](https://github.com/TecnoProjects)
 #### Aunque Mis favoritos y mas usados son JavaScript y Python :]
 ---
 [![Portafolio](https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large)](https://bit.ly/UlisesCamacho_portafolio)
+![Status](https://github-readme-stats.vercel.app/api?Mr-TechX=anuraghazra&show_icons=true&theme=radical)
+
