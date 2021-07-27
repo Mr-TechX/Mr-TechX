@@ -33,5 +33,4 @@ Fundador de [TecnoProjects](https://github.com/TecnoProjects)
 ---
 [![Portafolio](https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large)](https://bit.ly/UlisesCamacho_portafolio)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-TechX&show_icons=true&theme=radical)
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TechX&theme=radical&layout=compact">
