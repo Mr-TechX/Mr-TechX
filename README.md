@@ -33,7 +33,7 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 
 #### Aunque Mis favoritos y mas usados son JavaScript y Python :]
 ---
-[![Portafolio](https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large)](https://bit.ly/UlisesCamacho_portafolio)
+<img src="https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large" href="https://bit.ly/UlisesCamacho_portafolio">
 
 
 # Github Stats
