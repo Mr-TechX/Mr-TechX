@@ -6,14 +6,17 @@
 [![TechX Twitter](https://pbs.twimg.com/profile_banners/1370653756468166657/1626578835/1500x500)](https://twitter.com/Mr_TechX)
 
 -----------
-#### Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
+## Escuchando en Spotify
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&redirect=true)
+----
+
+
+### Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Mr. TechX☬](https://twitter.com/Mr__TechX).<br>
 
 Soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [MyBot Team](https://discord.gg/g6ssSmK) 
 Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](http://bit.ly/discord_techX)
----
-## Escuchando en Spotify
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&redirect=true)
+
 ---
 ### Mis lenguajes son lenguajes:
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
