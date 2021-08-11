@@ -14,6 +14,7 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 ---
 Fundador de [TecnoProjects](https://github.com/TecnoProjects)
 ---
+### Escuchando en Spotify
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&redirect=true)
 ---
 ### Mis lenguajes son lenguajes:
