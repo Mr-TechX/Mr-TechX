@@ -6,7 +6,7 @@
 [![TechX Twitter](https://pbs.twimg.com/profile_banners/1370653756468166657/1626578835/1500x500)](https://twitter.com/Mr_TechX)
 
 -----------
-### Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
+#### Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Mr. TechX☬](https://twitter.com/Mr__TechX).<br>
 
 Soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [MyBot Team](https://discord.gg/g6ssSmK) 
