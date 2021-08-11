@@ -33,14 +33,12 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 
 #### Aunque Mis favoritos y mas usados son JavaScript y Python :]
 ---
-[![Portafolio](https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large)](https://bit.ly/UlisesCamacho_portafolio)
+[![Portafolio](https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large) width="23px"](https://bit.ly/UlisesCamacho_portafolio)
 
 
 # Github Stats
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-TechX&show_icons=true&theme=radical&count_private=true&include_all_commits=true">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TechX&theme=radical&layout=compact"> <br>
 
-
 ---
-
 ### CEO de [TecnoProjects](https://github.com/TecnoProjects)
