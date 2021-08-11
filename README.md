@@ -12,7 +12,7 @@ Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programaci
 Soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [MyBot Team](https://discord.gg/g6ssSmK) 
 Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](http://bit.ly/discord_techX)
 ---
-### Escuchando en Spotify
+## Escuchando en Spotify
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&redirect=true)
 ---
 ### Mis lenguajes son lenguajes:
@@ -41,4 +41,4 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-TechX&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TechX&theme=radical&layout=compact">
 ---
-Fundador de [TecnoProjects](https://github.com/TecnoProjects)
+### Fundador de [TecnoProjects](https://github.com/TecnoProjects)
