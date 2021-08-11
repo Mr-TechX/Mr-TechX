@@ -14,6 +14,8 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 ---
 Fundador de [TecnoProjects](https://github.com/TecnoProjects)
 ---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+---
 ### Mis lenguajes son lenguajes:
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
