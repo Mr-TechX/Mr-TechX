@@ -5,7 +5,7 @@
 [![Personal Account](https://img.shields.io/twitter/follow/ulises__camacho?color=%231DA1F2&label=Personal%20Account&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/ulises__camacho)
 [![TechX Twitter](https://pbs.twimg.com/profile_banners/1370653756468166657/1626578835/1500x500)](https://twitter.com/Mr_TechX)
 
------------
+---
 ## Escuchando en Spotify
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&redirect=true) Soy programador, desarrollador web, creador de bots de discord, hacker etico, Editor de imagen, video y audio, etc.
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [☬Mr. TechX☬](https://twitter.com/Mr__TechX)
@@ -33,7 +33,7 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 
 #### Aunque Mis favoritos y mas usados son JavaScript y Python :]
 ---
-[![Portafolio](https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large) width="23px"](https://bit.ly/UlisesCamacho_portafolio)
+[![Portafolio](https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large)](https://bit.ly/UlisesCamacho_portafolio)
 
 
 # Github Stats
