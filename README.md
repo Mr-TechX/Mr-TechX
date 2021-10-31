@@ -28,7 +28,7 @@
 
 ---
 Soy programador, desarrollador web, creador de bots de discord y telegram, hacker etico, Editor de imagen, video y audio, etc.
-Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [┌─(Root🎃MrTechX)-[~]](https://twitter.com/Mr__TechX), Tambien tengo mi [cuenta personal](https://twitter.com/Ulises__Camacho) donde subo cosas para pasar el rato
+Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [MrTechX🎃](https://twitter.com/Mr__TechX), Tambien tengo mi [cuenta personal](https://twitter.com/Ulises__Camacho) donde subo cosas para pasar el rato
 ----
 
 Soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [HackTheBox](https://discord.gg/hackthebox) 
