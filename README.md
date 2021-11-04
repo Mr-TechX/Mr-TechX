@@ -36,7 +36,7 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 
 ---
 ## Escuchando en Spotify y [Mi Portafolio](https://bit.ly/UlisesCamacho_portafolio)
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qvv8hkxzjkj2cvez6d63tg708&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=qvv8hkxzjkj2cvez6d63tg708&redirect=true) <img src="https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large" href="https://bit.ly/UlisesCamacho_portafolio" width="500px" height="250px">
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qvv8hkxzjkj2cvez6d63tg708&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=qvv8hkxzjkj2cvez6d63tg708&redirect=true)<img src="https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large" href="https://bit.ly/UlisesCamacho_portafolio" width="500px" height="250px">
 <!--https://spotify-github-profile.vercel.app/api/view?uid=21jdapdkuwaieagyc5ohp5jgy&cover_image=true&theme=default-->
 
 # Github Stats
