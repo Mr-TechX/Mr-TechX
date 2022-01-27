@@ -36,7 +36,7 @@ Soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ)
 Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](http://bit.ly/discord_techX)
 
 ---
-## ·Escuchando en Spotify y [Mi Portafolio](https://bit.ly/UlisesCamacho_portafolio)
+## ·Escuchando en Spotify y [Mi Portafolio](https://web.ulisescamacho.repl.co)
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qvv8hkxzjkj2cvez6d63tg708&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=qvv8hkxzjkj2cvez6d63tg708&redirect=true)<img src="https://pbs.twimg.com/media/E7MATCeVoAAw8R-?format=jpg&name=large" href="https://bit.ly/UlisesCamacho_portafolio" width="500px" height="250px">
 
 #### ·Github Stats
