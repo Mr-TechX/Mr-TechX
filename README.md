@@ -45,3 +45,4 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 
 ---
 ### ·CEO y Fundador de [TecnoProjects](https://github.com/TecnoProjects) y [Tools X](https://github.com/Tools-X)
+<!--  -->
