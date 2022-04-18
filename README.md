@@ -44,7 +44,6 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mr-TechX&show_icons=true&theme=radical&count_private=true&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TechX&theme=radical&langs_count=5"> <br> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TechX&theme=chartreuse-dark&langs_count=5"><img src="https://github-readme-stats.vercel.app/api?username=Mr-TechX&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true"> <br>
-<iframe src="https://discord.com/widget?id=738105124597137461&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ---
 ### ·CEO y Fundador de [TecnoProjects](https://github.com/TecnoProjects) y [Tools X](https://github.com/Tools-X)
 <!--  -->
