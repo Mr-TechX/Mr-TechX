@@ -33,7 +33,7 @@ Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programaci
 ----
 
 Soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [HackTheBox](https://discord.gg/hackthebox) 
-Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](http://bit.ly/discord_techX)
+Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](https://discord.gg/R3bgKtMsSH)
 
 ---
 ## ·Escuchando en Spotify y [Mi Portafolio](https://web.ulisescamacho.repl.co)
