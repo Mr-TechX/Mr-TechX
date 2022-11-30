@@ -32,6 +32,10 @@
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png">
+<img height="35" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png">
+<img height="35" src="https://thumbs.dreamstime.com/b/icono-del-c%C3%B3digo-binario-estilo-simple-en-aislado-el-fondo-blanco-141523573.jpg">
+<img height="35" src="https://elbinario.net/wp-content/uploads/2014/05/Hacker-logo.sh-600x600.png">
+<img height="35" src="https://e7.pngegg.com/pngimages/600/114/png-clipart-dragon-kali-linux-android-linux-logo-silhouette-thumbnail.png">
 
 #### ·Mis favoritos y mas usados son JavaScript y Python :]
 
