@@ -38,7 +38,7 @@ Soy programador, desarrollador web, creador de bots de discord y telegram, hacke
 Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [MrTechX💀](https://twitter.com/Mr__TechX), Tambien tengo mi [cuenta personal](https://twitter.com/Ulises__Camacho) donde subo cosas para pasar el rato
 ----
 
-Soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [HackTheBox](https://discord.gg/hackthebox) 
+Soy el capitan de [BrokenBrain](https://github.com/BrokenBrain-BB), tambien soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [HackTheBox](https://discord.gg/hackthebox) 
 Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](https://discord.gg/R3bgKtMsSH)
 
 ---
