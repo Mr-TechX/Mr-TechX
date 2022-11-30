@@ -37,6 +37,11 @@
 <img height="35" src="https://elbinario.net/wp-content/uploads/2014/05/Hacker-logo.sh-600x600.png">
 <img height="35" src="https://e7.pngegg.com/pngimages/600/114/png-clipart-dragon-kali-linux-android-linux-logo-silhouette-thumbnail.png">
 <img height="35" src="https://yt3.ggpht.com/-XW1x_JT1g24/AAAAAAAAAAI/AAAAAAAAAAA/lMWjeVh_HEw/s900-c-k-no/photo.jpg">
+<img height="35" src="https://static.wixstatic.com/media/6a4a49_2bc602dcc9fd45d9924981d075a9b689~mv2.jpg/v1/fit/w_780%2Ch_780%2Cal_c%2Cq_80/file.png">
+<img height="35" src="https://scontent.fcyw4-1.fna.fbcdn.net/v/t39.30808-6/304958202_503306125134864_7490398769947916973_n.jpg">
+<img height="35" src="https://thumbs.dreamstime.com/b/malware-icon-trendy-modern-flat-linear-vector-malware-icon-w-malware-icon-trendy-modern-flat-linear-vector-malware-icon-130953859.jpg">
+
+<!-- <img height="35" src=""> -->
 
 #### ·Mis favoritos y mas usados son JavaScript y Python :]
 
