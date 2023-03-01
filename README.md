@@ -6,7 +6,7 @@
 [![TechX Twitter](https://pbs.twimg.com/profile_banners/1370653756468166657/1626578835/1500x500)](https://twitter.com/Mr_TechX)
 
 ---
-### ·Mis lenguajes y skills son los siguientes:
+### ·Mis lenguajes son los siguientes:
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -45,12 +45,11 @@
 #### ·Mis favoritos y mas usados son JavaScript y Python :]
 
 ---
-Soy programador, desarrollador web, creador de bots de discord y telegram, hacker etico, Editor de imagen, video y audio, etc.
-Tengo una cuenta en twitter, en donde twitteo cosas relacionadas a la programacion e informatica [MrTechX💀](https://twitter.com/Mr__TechX), Tambien tengo mi [cuenta personal](https://twitter.com/Ulises__Camacho) donde subo cosas para pasar el rato
+Soy programador, desarrollador web, creador de bots de discord y telegram, penetration tester, Editor de imagen, video y audio.
+Mi cuenta twitter, en donde tengo cosas relacionadas a la programacion e informatica [TechX en Twitter](https://twitter.com/Mr__TechX), Tambien tengo mi [cuenta personal](https://twitter.com/Ulises__Camacho) donde subo cosas de mi vida cotidiana.
 ----
 
-Soy el capitan de [BrokenBrain](https://github.com/BrokenBrain-BB), tambien soy miembro de los servidores de [La Resistencia](https://discord.gg/CxJmzvjCzJ) y tambien de [HackTheBox](https://discord.gg/hackthebox) 
-Te puedes unir a mi servidor de discord  con tematica de informatica y programacion dando [Click Aqui](https://discord.gg/R3bgKtMsSH)
+Miembro de los servidores de [OmegaUP](https://discord.gg/HexvCccwSx) y tambien de [HackTheBox](https://discord.gg/hackthebox), asi como parte de las comunidades de [Offensive Security](https://discord.gg/offsec) y [Kali Linux](https://discord.gg/d9vUPd7W9w) 
 
 ---
 ## ·Escuchando en Spotify y [Mi Portafolio](https://web.ulisescamacho.repl.co)
@@ -62,5 +61,5 @@ Te puedes unir a mi servidor de discord  con tematica de informatica y programac
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TechX&theme=chartreuse-dark&langs_count=5"><img src="https://github-readme-stats.vercel.app/api?username=Mr-TechX&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true"> <br>
 ---
-### ·CEO y Fundador de [TecnoProjects](https://github.com/TecnoProjects) y [Tools X](https://github.com/Tools-X)
+### ·Miembro del CPCI (Club de programación competitiva del [ITSUR](http://www.itsur.edu.mx/home.php))
 <!--  -->
