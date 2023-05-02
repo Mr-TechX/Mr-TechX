@@ -6,7 +6,7 @@
 [![TechX Twitter](https://pbs.twimg.com/profile_banners/1370653756468166657/1626578835/1500x500)](https://twitter.com/Mr_TechX)
 
 ---
-### ·Mis lenguajes son los siguientes:
+### ·Mis Tecnologías son las siguientes:
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -42,7 +42,7 @@
 <!-- <img height="35" src="https://elbinario.net/wp-content/uploads/2014/05/Hacker-logo.sh-600x600.png"> -->
 <!-- <img height="35" src=""> -->
 
-#### ·Mis favoritos y mas usados son JavaScript y Python :]
+#### ·Mis favoritas y mas usados son Java, JavaScript y Python :]
 
 ---
 Soy programador, desarrollador web, creador de bots de discord y telegram, penetration tester, Editor de imagen, video y audio.
