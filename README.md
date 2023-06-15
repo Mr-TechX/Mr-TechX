@@ -62,6 +62,6 @@ Miembro de los servidores de [OmegaUP](https://discord.gg/HexvCccwSx) y tambien 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TechX&theme=chartreuse-dark&langs_count=5"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-TechX&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true"> <br>
 ---
-### ·Miembro del CPCI (Club de programación competitiva del [ITSUR](http://www.itsur.edu.mx/home.php))
+### ·Miembro del CPCI (Club de programación competitiva del [ITSUR](https://surguanajuato.tecnm.mx/))
 ### ·Mi perfil de [OmegaUp](https://omegaup.com/profile/UlisesCamacho)
 <!--  -->
