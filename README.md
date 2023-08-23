@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CDCDCD&size=25&lines=MrTechX+%7C+UlisesCamacho;Pentester+%7C+Hacker)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=676767&width=435&lines=TechX+%7C+Ulises+L+Camacho;Pentester+%7C+Hacker)](https://git.io/typing-svg)<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mr__TechX?color=%231DA1F2&label=Mr.%20TechX&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/Mr__TechX)
 [![GitHub followers](https://img.shields.io/github/followers/Mr-TechX?color=%23181717&label=Github%20%7C%20Follow&logo=Github&style=for-the-badge)](http://bit.ly/github_techX)
 [![Unete a mi server](https://img.shields.io/discord/738105124597137461?color=%235865F2&label=Unete%20a%20mi%20servidor&logo=Discord&style=for-the-badge)](https://discord.gg/R3bgKtMsSH)
