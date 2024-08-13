@@ -32,6 +32,7 @@
 <img height="35" src="https://static.wixstatic.com/media/6a4a49_2bc602dcc9fd45d9924981d075a9b689~mv2.jpg/v1/fit/w_780%2Ch_780%2Cal_c%2Cq_80/file.png">
 <img height="35" src="https://thumbs.dreamstime.com/b/malware-icon-trendy-modern-flat-linear-vector-malware-icon-w-malware-icon-trendy-modern-flat-linear-vector-malware-icon-130953859.jpg">
 <img height="35" src="https://static.javatpoint.com/tutorial/uml/images/uml-tutorial.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cnc/cnc.png">
 <!-- COMING SOON -->
 <!-- <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> -->
 <!-- <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> -->
