@@ -55,7 +55,7 @@ Mi cuenta twitter, en donde tengo cosas relacionadas a la programacion e informa
 Miembro de los servidores de [OmegaUP](https://discord.gg/HexvCccwSx) y tambien de [HackTheBox](https://discord.gg/hackthebox), asi como parte de las comunidades de [Offensive Security](https://discord.gg/offsec) y [Kali Linux](https://discord.gg/d9vUPd7W9w) 
 
 ---
-## ·[Mi Portafolio](https://mr-techx.github.io/)
+## · [Mi Portafolio](https://mr-techx.github.io/)
 <img src="https://pbs.twimg.com/media/FKIKf6RVkAE3ekB?format=jpg&name=large" href="https://mr-techx.github.io/" width="500px" height="250px">
 
 #### ·Github Stats
