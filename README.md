@@ -55,8 +55,8 @@ Mi cuenta twitter, en donde tengo cosas relacionadas a la programacion e informa
 Miembro de los servidores de [OmegaUP](https://discord.gg/HexvCccwSx) y tambien de [HackTheBox](https://discord.gg/hackthebox), asi como parte de las comunidades de [Offensive Security](https://discord.gg/offsec) y [Kali Linux](https://discord.gg/d9vUPd7W9w) 
 
 ---
-## ·Escuchando en Spotify y [Mi Portafolio](https://mr-techx.github.io/)
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qvv8hkxzjkj2cvez6d63tg708&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=qvv8hkxzjkj2cvez6d63tg708&redirect=true)<img src="https://pbs.twimg.com/media/FKIKf6RVkAE3ekB?format=jpg&name=large" href="https://mr-techx.github.io/" width="500px" height="250px">
+## ·[Mi Portafolio](https://mr-techx.github.io/)
+<img src="https://pbs.twimg.com/media/FKIKf6RVkAE3ekB?format=jpg&name=large" href="https://mr-techx.github.io/" width="500px" height="250px">
 
 #### ·Github Stats
 ---
