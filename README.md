@@ -47,7 +47,7 @@ Miembro de los servidores de [OmegaUP](https://discord.gg/HexvCccwSx) y tambien 
 
 ---
 ## · [Mi Portafolio](https://mr-techx.github.io/)
-<img src="https://pbs.twimg.com/media/FKIKf6RVkAE3ekB?format=jpg&name=large" href="https://mr-techx.github.io/" width="500px" height="250px">
+<img src="https://github.com/Mr-TechX/Mr-TechX.github.io/blob/main/images/cap.png?raw=true" href="https://ulisescamacho.vercel.app" width="500px" height="250px">
 
 #### ·Github Stats
 ---
